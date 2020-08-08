@@ -1,4 +1,4 @@
-module github.com/baidu/magellan/baremetal
+module github.com/z521598/baremetal
 
 go 1.13
 

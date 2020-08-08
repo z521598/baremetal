@@ -5,7 +5,7 @@ import (
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/apimachinery/pkg/runtime/schema"
 
-	"github.com/baidu/magellan/baremetal/pkg/apis/baremetal"
+	"github.com/z521598/baremetal/pkg/apis/baremetal"
 )
 
 var SchemeGroupVersion = schema.GroupVersion{
