@@ -1,0 +1,10 @@
+apiVersion: magellan.baidu.com/v1
+kind: BareMetalJob
+metadata:
+  name: example
+spec:
+  resourceType: POOL
+  resourceId: 1
+  taskType: Shell
+  commands: >
+    echo 1
