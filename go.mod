@@ -1,4 +1,4 @@
-module github.com/z521598/baremetal
+module baremetal
 
 go 1.13
 
